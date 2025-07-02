@@ -1,6 +1,5 @@
 -f https://data.pyg.org/whl/torch-2.4.0+cu121.html
 Cython
-git+https://github.com/scne/similaripy.git@patch-1
 #sparsesvd==0.2.0
 torch==2.4.0
 torchvision==0.19.0
